@@ -7,3 +7,7 @@
 不保证一定符合考试内容，仅包含大部分考点，参考了近几年的期末考题，那些感觉不能考的就没放
 
 可以随意使用/传播
+
+优秀的类似资料：
+
+[1](https://github.com/Dige945/WHUCS_SoftwareEngineeringData/tree/main)
